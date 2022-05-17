@@ -1,6 +1,6 @@
 name: acme
 
-profile: example
+profile: 'example'
 
 version: '1.0'
 
